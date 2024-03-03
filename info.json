@@ -1,0 +1,15 @@
+{
+    "name": "AA-Alien-Agriculture",
+    "version": "0.0.01",
+    "factorio_version": "1.1",
+    "date": "2024-03-02",
+    "title": "Alien Agriculture",
+    "author": "AstaZora",
+    "homepage": "",
+    "description": "A mod to enhance the farming experience in Sky Atlas Mod Suite.",
+    "dependencies": [
+        "base >= 1.0.0",
+        "AB-Breathe-Easy-Arboretum >= 0.0.1",
+        "AC-Aquaculture >= 0.0.1"
+      ]
+}
